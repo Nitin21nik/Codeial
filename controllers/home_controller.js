@@ -1,4 +1,3 @@
-const react = require("react");
 
 module.exports.home=function(req,res)
 {
