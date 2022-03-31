@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  /*text-align:center;*/ }
+  body #layout-main {
+    min-height: 100%;
+    height: auto; }
