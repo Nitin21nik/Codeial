@@ -47,7 +47,7 @@ const production={
         secure:false,
         auth:{
             user:process.env.CODEIAL_GMAIL_USERNAME,
-            pass:process.env.CODEILA_GMAIL_PASSWORD
+            pass:process.env.CODEIAL_GMAIL_PASSWORD
         }
     },
     google_client_id:process.env.CODEIAL_GOOGLE_CLIENT_ID,
